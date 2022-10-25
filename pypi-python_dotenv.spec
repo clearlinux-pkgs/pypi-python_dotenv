@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_dotenv
 Version  : 0.20.0
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/02/ee/43e1c862a3e7259a1f264958eaea144f0a2fac9f175c1659c674c34ea506/python-dotenv-0.20.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/02/ee/43e1c862a3e7259a1f264958eaea144f0a2fac9f175c1659c674c34ea506/python-dotenv-0.20.0.tar.gz
 Summary  : Read key-value pairs from a .env file and set them as environment variables
